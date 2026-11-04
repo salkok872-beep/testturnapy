@@ -1,0 +1,2 @@
+cekirdek
+turna_cli

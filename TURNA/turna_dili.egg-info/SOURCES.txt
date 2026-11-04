@@ -1,0 +1,12 @@
+pyproject.toml
+turna_cli.py
+cekirdek/hatalar.py
+cekirdek/lexer.py
+cekirdek/parser.py
+cekirdek/turna_ast.py
+cekirdek/yorumlayici.py
+turna_dili.egg-info/PKG-INFO
+turna_dili.egg-info/SOURCES.txt
+turna_dili.egg-info/dependency_links.txt
+turna_dili.egg-info/entry_points.txt
+turna_dili.egg-info/top_level.txt

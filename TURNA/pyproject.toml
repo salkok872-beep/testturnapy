@@ -1,0 +1,19 @@
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "turna-dili"
+version = "0.1.0"
+description = "Türkçe programlama dili"
+requires-python = ">=3.10"
+
+[project.scripts]
+turna = "turna_cli:ana"
+
+[tool.setuptools]
+py-modules = ["turna_cli"]
+
+[tool.setuptools.packages.find]
+include = ["cekirdek*"]
